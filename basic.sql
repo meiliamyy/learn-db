@@ -1,4 +1,4 @@
-resume dasar query 
+resume dasar-dasar query SQL
 1. select 
 mengambil semua data 
 SELECT * FROM Album;
